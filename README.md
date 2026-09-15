@@ -1,26 +1,28 @@
+![Header](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,45:161B22,100:1F6FEB\&height=230\&section=header\&text=Jhonatan%20Schmitt\&fontSize=44\&fontColor=FFFFFF\&animation=fadeIn\&fontAlignY=36\&desc=Software%20Developer%20%7C%20AI%20Agents%20%7C%20Automation\&descAlignY=56\&descSize=18)
+
 <div align="center">
 
-# Hey, I'm Jhonatan Schmitt 👋
-
-### Software Developer • AI Agents • Automation • Backend
-
-Building software, intelligent automation and developer tools.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=21\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=780\&lines=Building+AI-powered+software;Creating+multi-agent+systems;Developing+cross-platform+applications;Backend+%7C+Automation+%7C+APIs;Turning+ideas+into+real+products)](https://git.io/typing-svg)
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-powered+software;Developing+automation+and+backend+systems;Exploring+multi-agent+architectures;Turning+ideas+into+working+products" />
-
-<br>
+<a href="https://github.com/C0mrad078">
+<img src="https://img.shields.io/badge/GitHub-C0mrad078-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://www.linkedin.com/in/jhonatan-schmitt-003062239/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Schmitt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jhonaatan81@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=C0mrad078&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS"/>
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=C0mrad078&label=PROFILE%20VIEWS&style=for-the-badge&color=1F6FEB"/>
+
+<img src="https://img.shields.io/github/followers/C0mrad078?label=FOLLOWERS&style=for-the-badge&logo=github&color=1F6FEB"/>
 
 </div>
 
@@ -28,205 +30,274 @@ Building software, intelligent automation and developer tools.
 
 ## 👨‍💻 About Me
 
-I'm a developer interested in building **real-world software products**, with a strong focus on:
-
-* 🤖 Artificial Intelligence & AI Agents
-* ⚙️ Automation
-* 🧠 Multi-Agent Systems
-* 🔌 APIs & Integrations
-* 🐍 Python Backend Development
-* 🗄️ Databases & Software Architecture
-* 🛡️ API Security
-
-I enjoy taking an idea from concept to implementation — designing the architecture, connecting services, automating workflows and turning it into a working product.
-
 ```python
-jhonatan = {
-    "username": "C0mrad078",
-    "focus": [
-        "AI Agents",
-        "Backend",
-        "Automation",
-        "APIs"
-    ],
-    "currently_building": "AI-powered developer tools",
-    "goal": "Build useful software that solves real problems"
-}
+class JhonatanSchmitt:
+    def __init__(self):
+        self.username = "C0mrad078"
+
+        self.focus = [
+            "Artificial Intelligence",
+            "AI Agents",
+            "Multi-Agent Systems",
+            "Backend Development",
+            "Automation",
+            "APIs"
+        ]
+
+        self.current_projects = [
+            "AgentMesh",
+            "XP_flow",
+            "NerdVerso"
+        ]
+
+    def build(self):
+        return "Ideas → Architecture → Code → Product"
 ```
 
----
+I'm a developer focused on building **real software products**, especially systems involving **AI agents, automation, backend architecture and integrations**.
 
-# 🚀 What I'm Building
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI & Agent Systems
-
-Exploring architectures where multiple AI agents can collaborate, execute tasks and improve development workflows.
-
-**Focus**
-
-`AI Agents` `Orchestration` `Automation` `LLMs`
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Automation
-
-Building services, integrations and automated workflows using modern backend technologies.
-
-**Focus**
-
-`Python` `APIs` `PostgreSQL` `Docker`
-
-</td>
-
-</tr>
-</table>
+I enjoy taking projects beyond the prototype stage — designing the architecture, connecting services, building interfaces and turning ideas into usable applications.
 
 ---
 
-# ⭐ Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔐 Painel B2B Safe
-
-Backend and automation system developed with Python.
-
-**Main technologies**
-
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-<br>
-
-<a href="https://github.com/C0mrad078/Painel_B2BSafe">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Full Stack Week
-
-Full-stack application built using TypeScript and modern web technologies.
-
-**Main technologies**
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs" />
-
-<br>
-
-<a href="https://github.com/C0mrad078/ProjetoFullstackweek">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ☕ Controle de Empréstimo
-
-Application developed using Java.
-
-**Main technologies**
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-<br>
-
-<a href="https://github.com/C0mrad078/ControleEmprestimo">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 Discord Bot Police
-
-Discord automation bot developed with Python.
-
-**Main technologies**
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<br>
-
-<a href="https://github.com/C0mrad078/Discord-bot-Police">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🧰 Tech Stack
-
-### Languages
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,php" />
-
-</p>
-
-### Backend & Databases
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb" />
-
-</p>
-
-### DevOps & Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
-
-</p>
-
----
-
-# 📊 Development Overview
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C0mrad078&theme=github_dark"/>
+## 🤖 AgentMesh
+
+### Multi-Agent AI Orchestration Platform
+
+A desktop platform designed to orchestrate multiple AI coding agents and providers inside a unified environment.
+
+AgentMesh focuses on **autonomous collaboration between AI agents**, task orchestration, intelligent decision-making and developer workflows across **macOS and Windows**.
 
 <br>
 
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C0mrad078&theme=github_dark"/>
+![AI Agents](https://img.shields.io/badge/AI-AGENTS-1F6FEB?style=for-the-badge)
+![Multi Agent](https://img.shields.io/badge/MULTI--AGENT-ORCHESTRATION-8250DF?style=for-the-badge)
+![Desktop](https://img.shields.io/badge/CROSS--PLATFORM-DESKTOP-238636?style=for-the-badge)
+![Automation](https://img.shields.io/badge/DEVELOPER-AUTOMATION-D29922?style=for-the-badge)
 
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C0mrad078&theme=github_dark"/>
+<br><br>
 
-<br>
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=C0mrad078&theme=github_dark"/>
-
-<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=C0mrad078&theme=github_dark&utcOffset=-3"/>
+<a href="https://github.com/C0mrad078/AgentMesh">
+<img src="https://img.shields.io/badge/OPEN_AGENTMESH-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-> Language statistics represent repository and commit activity and should not be interpreted as proficiency levels.
+<br>
+
+---
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h2 align="center">⚡ XP_flow</h2>
+
+<p align="center">
+<b>Cross-Platform Desktop Application</b>
+</p>
+
+Cross-platform desktop project combining a **Python core**, modern frontend tooling and a native **Tauri/Rust** application layer.
+
+The project puts strong emphasis on software quality, testing, security and native desktop integration.
+
+<br>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,rust,tauri,vite,js&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PYTHON-CORE-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TAURI-DESKTOP-24C8DB?style=flat-square&logo=tauri&logoColor=white"/>
+<img src="https://img.shields.io/badge/RUST-NATIVE-000000?style=flat-square&logo=rust&logoColor=white"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/C0mrad078/XP_flow">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h2 align="center">👾 NerdVerso</h2>
+
+<p align="center">
+<b>Full-Stack Geek E-Commerce Platform</b>
+</p>
+
+A complete geek-focused e-commerce platform combining storefront, administration, catalog management, orders, inventory and external integrations.
+
+Designed as a real production-oriented application rather than a simple storefront prototype.
+
+<br>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,docker,aws&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NEXT.JS-FRONTEND-000000?style=flat-square&logo=nextdotjs"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-DATABASE-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-CLOUD-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="https://github.com/C0mrad078/nerdverso">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 What I'm Building
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🤖 AI Agents
+
+Autonomous agents capable of reasoning, collaborating and executing development tasks.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🕸️ Multi-Agent Systems
+
+Architectures where specialized agents coordinate and work together.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Automation
+
+Systems that remove repetitive work through intelligent workflows.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🔌 Integrations
+
+APIs and services connected into complete software ecosystems.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
+
+### Languages
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=python,ts,js,java,php,rust\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Frontend
+
+<div align="center">
+
+[![Frontend](https://skillicons.dev/icons?i=nextjs,react,vite,html,css\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Backend & Databases
+
+<div align="center">
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,supabase\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### DevOps & Infrastructure
+
+<div align="center">
+
+[![Infrastructure](https://skillicons.dev/icons?i=docker,aws,vercel,git,github,linux\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+### Development Environment
+
+<div align="center">
+
+[![Development](https://skillicons.dev/icons?i=vscode,github,git,postman\&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C0mrad078&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C0mrad078&theme=tokyonight"/>
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C0mrad078&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=C0mrad078&theme=tokyonight"/>
+
+<img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=C0mrad078&theme=tokyonight&utcOffset=-3"/>
+
+</div>
+
+<p align="center">
+<sub>
+Language cards represent repository and commit activity — not proficiency level.
+</sub>
+</p>
 
 ---
 
@@ -234,44 +305,46 @@ Discord automation bot developed with Python.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=C0mrad078&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=C0mrad078&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Development Activity
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=C0mrad078&theme=github-compact&hide_border=true&area=true"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=C0mrad078&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true&custom_title=Jhonatan%20Schmitt's%20Contribution%20Graph"/>
 
 </div>
 
 ---
 
-# 🧠 Currently Exploring
+# 🎯 Current Focus
 
 ```text
-AI Agent Architecture
-Multi-Agent Orchestration
-LLM-powered Developer Tools
-Advanced Python
-Backend Architecture
-PostgreSQL
-Docker
-API Security
-Automation
+🤖 AI Agents
+🧠 Multi-Agent Orchestration
+⚙️ Developer Automation
+🖥️ Cross-Platform Desktop Apps
+🐍 Advanced Python
+🦀 Rust & Tauri
+🔌 APIs & Integrations
+🗄️ Backend Architecture
+🐳 Docker & Containers
+☁️ Cloud Infrastructure
+🛡️ API Security
 ```
 
 ---
 
-# 🌎 Let's Connect
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/jhonatan-schmitt-003062239/">
-<img src="https://img.shields.io/badge/LinkedIn-Jhonatan_Schmitt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Jhonatan%20Schmitt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/jhow0788/">
@@ -279,15 +352,13 @@ Automation
 </a>
 
 <a href="mailto:jhonaatan81@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-### Build. Learn. Automate. Improve.
+### `Build → Automate → Learn → Improve → Repeat`
 
 </div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving\&color=0:0D1117,45:161B22,100:1F6FEB\&height=130\&section=footer)
