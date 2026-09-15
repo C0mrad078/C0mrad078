@@ -1,8 +1,19 @@
-<div>
+<div align="center">
+
   <a href="https://github.com/C0mrad078">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0mrad078&layout=compact&langs_count=7&theme=dark"/>
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=C0mrad078&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img
+      height="180em"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=C0mrad078&theme=github_dark"
+    />
   </a>
+
+  <a href="https://github.com/C0mrad078">
+    <img
+      height="180em"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=C0mrad078&theme=github_dark"
+    />
+  </a>
+
 </div>
 
 ## Languages ​​I'm learning
